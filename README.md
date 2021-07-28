@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fadimedurna
-- 👀 I’m interested in mobile and web development
+- 👀 I’m interested in mobile and web application development & design
 - 🌱 I’m currently learning about web development tools like  HTML, CSS, Javascript, Node, React, MongoDB...
 - 💞️ I’m looking to collaborate on who loves develope some helpful aplications 
 - 📫 How to reach me https://fadimedurna.github.io/MySite/
